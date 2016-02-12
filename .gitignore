@@ -1,0 +1,2 @@
+# Ignore the node_modules directory. That will be set up with the npm install command.
+node_modules

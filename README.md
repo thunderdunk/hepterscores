@@ -15,6 +15,7 @@ We've added a few bits of functionality:
 
 ###Gulp
 To get Gulp going, navigate to the theme directory in the command line and type:
+
 	npm install
 
 

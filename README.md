@@ -13,14 +13,6 @@ We've added a few bits of functionality:
 
 
 
-###Gulp
-To get Gulp going, navigate to the theme directory in the command line and type:
-
-	npm install
-
-
-
-
 Getting Started
 ---------------
 
@@ -41,3 +33,12 @@ OR
 * Search for: `hepterscores-` and replace with: `megatherium-`
 
 Then, update the stylesheet header in `style.css` and the links in `footer.php` with your own information. Next, update or delete this readme.
+
+
+###Gulp
+To get Gulp going, navigate to the theme directory in the command line and type:
+
+	npm install
+
+####WPAlchemy
+Move the `wpalchemy` folder from your theme directory to `wp-content`.

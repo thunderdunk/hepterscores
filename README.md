@@ -24,8 +24,6 @@ To get Gulp going, navigate to the theme directory in the command line and type:
 Getting Started
 ---------------
 
-If you want to keep it simple, head over to http://underscores.me and generate your `hepterscores` based theme from there. You just input the name of the theme you want to create, click the "Generate" button, and you get your ready-to-awesomize starter theme.
-
 Download or clone `hepterscores` from GitHub. The first thing you want to do is copy the `hepterscores` directory and change the name to something else (like, say, `megatherium`), and then you'll need to do a five-step find and replace on the name in all the templates.
 
 1. Search for `'hepterscores'` (inside single quotations) to capture the text domain.

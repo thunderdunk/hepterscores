@@ -152,13 +152,20 @@ require get_template_directory() . '/inc/customizer.php';
 require get_template_directory() . '/inc/jetpack.php';
 
 /**
+ * Load Custom Loops, Widgets and Post Types.
+ */
+require get_template_directory() . '/inc/post-types.php';
+require get_template_directory() . '/inc/loops.php';
+require get_template_directory() . '/inc/widgets.php';
+
+/**
  * WPAlchemy
  **/
 
 include_once 'metaboxes/setup.php';
 
 include_once 'metaboxes/simple-spec.php';
- 
+
 // include_once 'metaboxes/full-spec.php';
 
 // include_once 'metaboxes/checkbox-spec.php';
